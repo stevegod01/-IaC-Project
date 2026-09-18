@@ -1,3 +1,13 @@
+# Historical exercise — maintained successor
+
+The maintained implementation and operating instructions are now in [high-availability-Udagram-webApp](https://github.com/stevegod01/high-availability-Udagram-webApp). The consolidation preserves this repository's useful source, documentation and provenance. Keep this repository as historical reference; use the successor for current validation, verification and cleanup.
+
+No current deployment, original authorship, recovery guarantee or new license is implied. Historical commands below may have fixed paths, old image IDs or incomplete cleanup. Existing source and Git history are retained.
+
+---
+
+## Original notes
+
 # Infrastructure as Code NanoDegree Project  
 ![aws logo](https://user-images.githubusercontent.com/48868321/184529873-ab254a43-edb8-4afb-bf33-f3f6e3521463.png ) ![image](https://user-images.githubusercontent.com/48868321/184529926-42070e44-6708-4660-b39b-181a114b03e2.png)
 
@@ -37,5 +47,3 @@ In this project, I made use of www.lucidchart.com to draw the diagram.
 
 
 ![image](https://user-images.githubusercontent.com/48868321/184529491-1235cd51-b116-4538-808f-0a9d6dcf04e3.png)
-
-
